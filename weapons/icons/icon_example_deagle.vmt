@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "vgui/ttt/icon_example_deagle"
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+	"$translucent" 1
+}
