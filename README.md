@@ -5,8 +5,6 @@ Developer resources for Garry's Mod Trouble in Terrorist Town
 * [Custom Weapon Guide](http://ttt.badking.net/custom-weapon-guide)
 * Examples
     * [Rollermine Weapon](https://github.com/BadgerCode/TTT-Rollermine)
-    * [Bee Grenade](https://github.com/BadgerCode/ttt-bee-nade)
-    * [Fake Body Weapon](https://github.com/BadgerCode/ttt-body-bomb)
 
 ## Icon
 ### Backgrounds
